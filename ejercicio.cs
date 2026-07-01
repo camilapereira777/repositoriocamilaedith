@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Net.WebSockets;
 using milibreria;
 
 class program 
@@ -9,9 +9,15 @@ class program
     {
         avion boing = new avion();
 
-        boing.aterizar();
-        boing.despegar();
-        boing.aterizar();
+        auto ferrari  = new auto();
+
+        ferrari.mover();
+
+        boing.mover();
+
+
+        
+
         
     }
 }

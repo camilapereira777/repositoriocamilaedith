@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/et12alumno/repositoriocamilaedith/ejercicio 5 17.csproj",
+      "projectUniqueName": "/home/et12alumno/Escritorio/ejercicio/repositoriocamilaedith/ejercicio 5 17.csproj",
       "projectName": "ejercicio 5 17",
-      "projectPath": "/home/et12alumno/repositoriocamilaedith/ejercicio 5 17.csproj",
+      "projectPath": "/home/et12alumno/Escritorio/ejercicio/repositoriocamilaedith/ejercicio 5 17.csproj",
       "packagesPath": "/home/et12alumno/.nuget/packages/",
-      "outputPath": "/home/et12alumno/repositoriocamilaedith/obj/",
+      "outputPath": "/home/et12alumno/Escritorio/ejercicio/repositoriocamilaedith/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/et12alumno/.nuget/NuGet/NuGet.Config"
