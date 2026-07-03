@@ -5,8 +5,10 @@ using milibreria;
 class program 
 
 {
-    static void Main()
-    {
+    static void Main(){
+
+    
+    
         avion boing = new avion();
 
         auto ferrari  = new auto();
@@ -15,6 +17,7 @@ class program
 
         boing.mover();
 
+        
 
         
 

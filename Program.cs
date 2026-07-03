@@ -13,7 +13,7 @@ namespace milibreria{
         Console.WriteLine("arrancando...");
         
      }
-     public void mover()
+     public  virtual void mover()
 
      {
         Console.WriteLine("se mueve");
@@ -44,7 +44,12 @@ class avion : transporte{
     {
         Console.WriteLine("despegando");
     }
-    
+
+
+     public override void mover()
+    {
+        Console.WriteLine("moviendo el avion");
+    }
 }
 class auto : transporte 
 {
@@ -53,5 +58,10 @@ class auto : transporte
     public void cambioaceite()
    {
     Console.WriteLine("realizar un cambio de aceite");
+    }
+
+    public override void mover()
+    {
+        Console.WriteLine("moviendo el auto");
     }
 }
